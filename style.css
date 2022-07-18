@@ -136,6 +136,7 @@ a:hover {
     color: rgba(255, 255, 255, .6);
 }
 
+
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
@@ -332,6 +333,9 @@ a:hover {
 
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
+}
+text {
+    font-size: xx-large;
 }
 
 .nav > li a:hover,
@@ -653,7 +657,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #0b0a0a!important;
 }
 .container {
     max-width: 1000px;
